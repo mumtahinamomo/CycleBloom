@@ -17,7 +17,7 @@
 
 ---
 
-## 💻 Built With
+## 💻 Technologies Used
 - **Swift**: Programming language used
 - **UIKit**: Framework for UI components
 - **Xcode**: Development environment
